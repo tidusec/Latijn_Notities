@@ -11,11 +11,28 @@
             "id": "00dce4bbb666d98a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Filosofie/Thema 1/Teksten 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a236c61826bc021e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Martialis/Korte gedichten van Martialis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Martialis/Korte gedichten van Martialis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Martialis/Korte gedichten van Martialis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Martialis/Korte gedichten van Martialis.md"
+              }
             }
           }
         ]
@@ -138,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b4ab883ee43eed3",
+  "active": "a236c61826bc021e",
   "lastOpenFiles": [
+    "Filosofie/Thema 1/Teksten 1.md",
+    "Untitled.md",
     "Vergilius/Een jachtpartij.md",
     "Vergilius/De tussenkomst van Mercurius.md",
-    "Untitled.md",
     "Vergilius/Dido barst uit.md",
     "Vergilius/Dido vraagt rekenschap.md",
     "Vergilius/In de grot.md"
