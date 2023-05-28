@@ -2,6 +2,12 @@
 
 Ondertussen begon met groot gedonder de hemel gemengd te worden, direct daarop volgt een storm nadat ze met een hagel bij was samengemengd; zowel de Carthaagse gezellen als de Trojaanse jeugd en de Trojaanse kleinzoon van Venus trachtten uit vrees overal huizen verspreid over de velden te bereiken, de stromen stortten van de bergen. Dido en de Trojaanse leider kwamen in de zelfde grot terecht: Zowel Tellus als eerste als Juno als beschermster van het huwelijk gaven hun teken; vuur flitste en de lucht was getuige bij, het huwelijk, en van op de hoogste bergtop juichten nimfen. Die dag als eerste was de reden van haar dood en het onheil; en ze wordt niet meer bewogen door haar uiterlijk of reputatie, en Dido dacht niet meer aan de heimelijke liefde: ze neemt het huwelijk, met deze naam verdoezelfde ze haar schuld.
 
+## Grammatica
+
+
+
+
+
 ## Stijlfiguren
 
 1.  Alliteratie: "magno misceri murmure caelum" Deze zin bevat inderdaad alliteratie, omdat de herhaalde medeklinker "m" wordt gebruikt in "magno misceri murmure."

@@ -1,1 +1,3 @@
+## Vertaling 
+
 Ze bekeek hem die zulke woorden sprak al lang van terzijde, haar ogen vertelde van hier naar daar en ze nam hem helemaal in zich op het stilzwijgende blikken en ze sprak zo aangestoken: “Noch heb jij de goden als moeder nog is Dardanius de stamvader van je volk, verrader, maar de huivering vechtende Kaukasus baarde je op harde rotsen en de tijgers van de Hyrcanie bewogen de borsten dichter bij. Want waarom zou ik alsof doen of voor ? Toch zucht hij niet bij ons geween? Toch draaide hij zijn blikken? Hij geeft toch geen tr[???] omdat hij is oerwenen, noch heeft hij medelijden met zijn geliefde.
