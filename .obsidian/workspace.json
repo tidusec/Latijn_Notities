@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aad4e655af053aad",
+        "id": "0e6cba432a46f8b9",
         "type": "tabs",
         "children": [
           {
-            "id": "02067d67014ea83d",
+            "id": "00dce4bbb666d98a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Een jachtpartij.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Een jachtpartij.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Een jachtpartij.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Een jachtpartij.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,6 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02067d67014ea83d",
-  "lastOpenFiles": []
+  "active": "6b4ab883ee43eed3",
+  "lastOpenFiles": [
+    "Vergilius/Een jachtpartij.md",
+    "Vergilius/De tussenkomst van Mercurius.md",
+    "Untitled.md",
+    "Vergilius/Dido barst uit.md",
+    "Vergilius/Dido vraagt rekenschap.md",
+    "Vergilius/In de grot.md"
+  ]
 }
