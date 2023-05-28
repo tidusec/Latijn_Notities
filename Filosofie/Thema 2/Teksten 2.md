@@ -1,0 +1,11 @@
+Er zijn er die verzekeren dat hij als eerste zei dat zielen onsterfelijk zijn. Ook als eerste vond hij de baan van de zon van de nee naar de andere wending.  Zelfs als eerste noemde hij de laatste dag van de maand de 30ste, ook over de natuur sprak hij als eerste, volgens sommigen. Dat hij meende dat zelfs in levenlozen een ziel was, schreven Aristoteles en Hippias. Nadat hij door de Egyptenaren de basis van de geometrie was onderwezen beschreef hij als eerste de rechte hoeken van een cirkel in een driehoek en slachtte hij een rund, zo vertelt Pamphilon, anderen zeggen dat het Pythagoras was. Het staat vast dat hij ook uitstekend raad heeft gegeven voor de balngen van de staat. Want toen Croesus, de Miletiers aanzette tot het aangaan van een bondgenootschap, verzette hij zich ertegen, en die zaken erna, nadat Cyrus zich meester had gemaakt over de overwinning; was het het welzijn (redding?) van de staat
+
+Sommigen zeggen dat hij gehuwd was en een zoon, Libissus, heeft voortgebracht, anderen dat hij ongehuwd bleef en de zoon van zijn [???] zus adopteerde, en geantwoord dat hij werd weerhouden door de liefde voor kindern. Terwijl zijn moeder aandrong tot het huwen, "Het is nog geen tijd", zei hij: omdat de leeftijd reedsd toenam wanneer zij feller aandrong bij hem, zei hij "het is al te laat".
+
+Hieronumus van Rhodos schreef zelfs, toen hij wilde tonen, hoe makkelijk hij rij was geworden, nadat de toekomstige overvloed aan olijven gekend was had hij olijfpersen ingehuurd en onnoemelijk veel geld voor zich verdiend. 
+
+Hij heeft gezegd dat water de basis is van alle dingen en dat de volledige wereld geesten vol demonen is. Ze vertellen dat hij de tijden van het jaar en hun overganggen als eerste vond en dat hij het verdeelde in 365 dagen.
+
+Er wordt verteld dat hij wanneer hij zijn huis verliet om sterren te bekijken, in een gracht viel, een oude vrouw die hem vergezelde zei: de [???] "Werkelijk Thalen, hoewel je niet kan onderscheiden wat er voor je voeten is, hoop je leren kennen wat de hemel is".
+
+Van hem is dit "Ken Jezelf", wat Antisthenes in zijn opeenvolgingen zei van de Phenomoe te zijn geweest, en dat Chilonem dit opeist.

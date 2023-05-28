@@ -1,0 +1,4 @@
+Je zal goed souperen Fabullus, bij mij over weinig dagen, als de goden jou steunen, als je niet jou eer groot en goed souper zal hebben meegebracht, niet zonder een mooi meisje en wijn en zou en alle mogelijke schaterlachen. Ik zeg dat als je dit zal hebben megebracht, schone jongen van ons, je goed zal souperen: want van jouw is Cattulus is de beurs vol met spinnnen. Maar daarentegen zal je zuivere liefde ontvangen of wat nog fijner of eleganter is: want ik zal je fortuin geven die Venus en Cupido aan mijn meisje hebben gegeven. Wannneer je dat zal [???] zal je de goden vragen dat ze je helemaal ?neus? maken Fabullus.
+
+Je nog nooit parfum noch wijnen achter [???] voor je erfgenamen
+Moge hij geldstukken hebben: dat deze dagen helemaal aan jou weorden gegeven.
