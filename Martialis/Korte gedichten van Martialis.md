@@ -65,6 +65,7 @@ Mij hebben alle plooien, mij heeft elke [???]
 mijn iemand bloost, is bleek, staat versteld, haat.
 Dit wil ik: nu behagen ons onze gedichten.
 
+
 ## 18
 
 Waarom zend ik jou mijn gedichtbundels niet, Pontitiamus
@@ -84,7 +85,6 @@ Hij barst van afgunst, omdat ik aangenaam voor vrienden ben,
 omdat ik een veelgevraagde tafelgenoot ben, barst hij van afgunst.
 Hij barst van afgunst, omdat wij worden bemind en omdat wij worden
 goedgekeurd: Moge hij barsten, die ook barst van afgunst.
-
 
 
 
